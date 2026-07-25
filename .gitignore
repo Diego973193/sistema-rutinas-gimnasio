@@ -1,0 +1,38 @@
+# Python
+_pycache_/
+**/_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+***ntorno virtual del backend
+venv/***ckend/venv/
+
+# Variables de ento***
+.env
+backend/.env
+frontend/.env*** Node / Frontend
+node_modules/
+f***tend/node_modules/
+dist/
+fronten***ist/
+.vite/
+frontend/.vite/
+
+# L***
+*.log
+npm-debug.log*
+yarn-debug*og
+yarn-error.log*
+
+# Sistema op**ativo
+.DS_Store
+Thumbs.db
+
+# IDEs** editores
+.vscode/
+.idea/
+
+# Arch**os temporales
+*.tmp
+*.temp
